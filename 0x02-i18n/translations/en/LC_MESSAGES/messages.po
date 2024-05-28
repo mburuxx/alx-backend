@@ -1,0 +1,16 @@
+# English translations for i18n.
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: njihiamburu.3@gmail.com\n"
+"POT-Creation-Date: 2024-05-28 22:52+0300\n"
+"PO-Revision-Date: 2024-05-28 22:53+0300\n"
+"Last-Translator: John Mburu <njihiamburu.3@gmail.com>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
